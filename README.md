@@ -1,4 +1,4 @@
-Video DownloadHelper (VDH) 深度破解教程
+Video DownloadHelper (VDH) 
 
 本教程通过 Python 自动化脚本修改插件核心逻辑，彻底绕过 HLS/MPD 视频下载的 **2 小时等待限制**。
 
