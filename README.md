@@ -25,7 +25,9 @@ Video DownloadHelper (VDH)
 
 ### 第三步：运行破解脚本
 1. 在 `service` 目录中新建一个文本文件，重命名为 `crack_vdh.py`。
+
 2. 将文件crack_vdh.py代码复制并保存到该文件中：
+
 3.在该目录下打开命令行（Shift + 右键 -> 在此处打开 PowerShell），执行：
 ```
 python crack_vdh.py
